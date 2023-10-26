@@ -1,0 +1,10 @@
+F:\barron 3\PictureViewer\bin\Release\PictureViewer.exe.config
+F:\barron 3\PictureViewer\bin\Release\PictureViewer.exe
+F:\barron 3\PictureViewer\bin\Release\PictureViewer.pdb
+F:\barron 3\PictureViewer\obj\Release\PictureViewer.csproj.AssemblyReference.cache
+F:\barron 3\PictureViewer\obj\Release\PictureViewer.Form1.resources
+F:\barron 3\PictureViewer\obj\Release\PictureViewer.Properties.Resources.resources
+F:\barron 3\PictureViewer\obj\Release\PictureViewer.csproj.GenerateResource.cache
+F:\barron 3\PictureViewer\obj\Release\PictureViewer.csproj.CoreCompileInputs.cache
+F:\barron 3\PictureViewer\obj\Release\PictureViewer.exe
+F:\barron 3\PictureViewer\obj\Release\PictureViewer.pdb
